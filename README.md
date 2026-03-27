@@ -1,5 +1,5 @@
 # suyashtripathi
-<h1 align="center">Hi 👋, I'm Suyash Tripathi</h1>
+<h1 align="center">Hi 👋, I'm Suyash </h1>
 <h3 align="center">Full Stack Developer | ML Enthusiast | B.Tech 2026</h3>
 
 ## 🚀 About Me
